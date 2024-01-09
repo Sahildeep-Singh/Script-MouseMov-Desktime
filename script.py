@@ -21,7 +21,11 @@ for o in range(s):
   pyautogui.moveTo(xC[o], yC[o], duration = 0.3)
   if(f()): break
 
+
+
   
+
+
 
 pyautogui.hotkey(v + q + m , t + u)
 
