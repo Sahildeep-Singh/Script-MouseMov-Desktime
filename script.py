@@ -23,8 +23,6 @@ for o in range(s):
 
 
 
-  
-
 
 
 pyautogui.hotkey(v + q + m , t + u)
